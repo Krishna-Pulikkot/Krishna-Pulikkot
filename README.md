@@ -9,7 +9,7 @@
 
 <!--CODING GIF-->
 <br/>
-<img align="right" alt="Have a good day!" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" padding="10" margin="0" width="400px" height="100%"> 
+<img align="right" alt="Have a good day!" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" padding="10" margin="0" width="300px" height="100%"> 
 
 <div align = 'left'>
 
