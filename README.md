@@ -22,6 +22,8 @@
 - 📫 How to reach me: [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:krishnapulikkot@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.) [![GitHub Krishna](https://img.shields.io/github/followers/Krishna-Pulikkot?label=follow&style=social)](https://github.com/Krishna-Pulikkot)[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-p-b65a1917b/)
 - ⚡ What Inspires me: कर्मण्येवाधिकारस्ते मा फलेषु कदाचन्। मा कर्मफलहेतुर्भूर्मा ते संगोस्त्वकर्मणि।। 
 - 📚 Words that best sum me up: Learner, Reader, Writer, Painter.
+- 📫 Mail me: **krishnapulikkot@gmail.com**
+  
 <br/>
 
 <h3 align="left">Coding profiles:</h3>
