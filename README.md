@@ -1,4 +1,4 @@
-<h2>नमस्ते 🙏🏻, I'm Krishna! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2> <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> 
+<h2>नमस्ते 🙏🏻, I'm Krishna! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2> 
 <br/>
 
 <!--CONNECT ME BADGES-->
@@ -7,6 +7,8 @@
   <a href="mailto:krishnapulikkot@example.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
+<!--CODING GIF-->
+<img align="right" alt="Have a good day!" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" padding="0" margin="0" width="400px" height="100%"> 
 
 <div align = 'left'>
 
