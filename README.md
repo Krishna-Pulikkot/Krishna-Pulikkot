@@ -1,10 +1,10 @@
-<h2>नमस्ते 🙏🏻, I'm Krishna Pullikot! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2> <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> 
+<h2>नमस्ते 🙏🏻, I'm Krishna Pulikkot! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2> <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> 
 <br/>
 
 <!--CONNECT ME BADGES-->
 <p align="center">
   <a href="https://www.linkedin.com/in/krishna-p-b65a1917b/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>   
-  <a href="mailto:krishnapilikkot@example.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:krishnapulikkot@example.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 
@@ -19,7 +19,7 @@
 - 🔮 What do I do? - Designing and creating some beautiful stuff on my computer
 - 👯 I’m looking to collaborate on Python and Web Development-related projects.
 - 🤔 I’m looking for help for exploring new topics in tech 
-- 📫 How to reach me: [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:krishnapilikkot@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.) [![GitHub Krishna](https://img.shields.io/github/followers/Krishna-Pulikkot?label=follow&style=social)](https://github.com/Krishna-Pulikkot)[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-p-b65a1917b/)
+- 📫 How to reach me: [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:krishnapulikkot@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.) [![GitHub Krishna](https://img.shields.io/github/followers/Krishna-Pulikkot?label=follow&style=social)](https://github.com/Krishna-Pulikkot)[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-p-b65a1917b/)
 - ⚡ What Inspires me: कर्मण्येवाधिकारस्ते मा फलेषु कदाचन्। मा कर्मफलहेतुर्भूर्मा ते संगोस्त्वकर्मणि।। 
 - 📚 Words that best sum me up: Learner, Reader, Writer, Painter.
 <br/>
