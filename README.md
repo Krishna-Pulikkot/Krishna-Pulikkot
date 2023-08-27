@@ -20,18 +20,30 @@
 - 👯 I’m looking to collaborate on Python and Web Development-related projects.
 - 🤔 I’m looking for help for exploring new topics in tech 
 - 📫 How to reach me: [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:krishnapilikkot@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.) [![GitHub Krishna](https://img.shields.io/github/followers/Krishna-Pulikkot?label=follow&style=social)](https://github.com/Krishna-Pulikkot)[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-p-b65a1917b/)
-- ⚡ Fun fact: कर्मण्येवाधिकारस्ते मा फलेषु कदाचन्। मा कर्मफलहेतुर्भूर्मा ते संगोस्त्वकर्मणि।। 
+- ⚡ What Inspires me: कर्मण्येवाधिकारस्ते मा फलेषु कदाचन्। मा कर्मफलहेतुर्भूर्मा ते संगोस्त्वकर्मणि।। 
 - 📚 Words that best sum me up: Learner, Reader, Writer, Painter.
-
 <br/>
+
+<h3 align="left">Coding profiles:</h3>
+<p align="left"> 
+<a href="https://www.codechef.com/users/krishna_p123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="Krishna Pulikkot" height="30" width="40" /></a>
+<a href="https://leetcode.com/krishna_p123/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Lrishna P" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/krishnap28f4/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="Krishna P" height="30" width="40" /></a>
+<a href="https://www.freecodecamp.org/Krishna_P" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/3/39/FreeCodeCamp_logo.png" alt="FreeCodeCamp" height="50" width="90" /></a>
+<a href="https://www.hackerrank.com/krishnapulikkot" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+</a>
+</p>
+<br/>
+
+
+
 
 <br />
 
 **Languages and Tools:** 
 
 <p>
-
-  
   
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
